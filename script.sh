@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello" > message.txt
+yum install bind-utils -y 
