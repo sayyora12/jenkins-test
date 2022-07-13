@@ -5,3 +5,4 @@ ls
 
 echo "Here is pwd"
 pwd
+.:wq
